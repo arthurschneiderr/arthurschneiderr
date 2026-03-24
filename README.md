@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-📚 Estudante de Informática no Instituto Ivoti (5/7)<br>👐 Estou procurando ajuda com dicas e orientações sobre como ingressar na área de tecnologia e conquistar meu primeiro estágio.<br>☕ Apaixonado por café — ele me acompanha nos estudos e nos projetos.<br>🌱 Evoluindo mais a cada dia 
+📚 Estudante de Informática no Instituto Ivoti (7/7)<br>👐 Estou procurando ajuda com dicas e orientações sobre como ingressar na área de tecnologia e conquistar meu primeiro estágio.<br>☕ Apaixonado por café — ele me acompanha nos estudos e nos projetos.<br>🌱 Evoluindo mais a cada dia 
 
 
 ## 🌐 Socials:
